@@ -39,7 +39,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**ʜᴇʏ ɢᴜʏꜱ 
 ᴛʜɪꜱ ʙᴏᴛ ʜᴀꜱ ᴀ ʟᴏᴛ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ʙᴀꜱᴇᴅ ᴏɴ ᴀ.ɪ ᴀɴᴅ ʜɪɢʜ ꜱᴏᴜɴᴅ Qᴜᴀʟɪᴛʏ ᴏꜰ ꜱᴏɴɢꜱ.
 ᴀɴᴅ ᴛʜɪꜱ ᴍᴜꜱɪᴄ + ꜱᴘᴀᴍ + ᴠᴄʀᴀɪᴅ ʙᴏᴛ ꜱᴍᴀꜱʜ ᴛʜᴇᴍ ᴏꜰ ᴀʟʟ ꜱᴇʀᴠᴇʀ ᴏꜰ ᴍᴜꜱɪᴄ ʙᴏᴛ ᴀꜱꜱ..
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ [sᴜᴍɪᴛ ʏᴀᴅᴀᴠ](t.me/Simple_Mundaa)
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ
 **""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -50,10 +50,10 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/Demon_Creators/184"
+                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/RG_Anime_Group"
                     ),
                     InlineKeyboardButton(
-                        "•ᴏᴡɴᴇʀ•", url="https://t.me/Simple_Mundaa"
+                        "•ᴏᴡɴᴇʀ•", url="https://t.me/imAnimelover"
                     )
                 ],
                 [
